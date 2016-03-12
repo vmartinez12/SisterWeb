@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem 'haml'
 
 gem 'protected_attributes'
-
+gem 'sqlite3'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5.1'
 
@@ -40,7 +40,7 @@ group :production do
   
 end
 
-gem 'pg'
+
 
 
 group :development, :test do
