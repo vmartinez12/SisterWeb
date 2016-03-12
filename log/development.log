@@ -988,3 +988,47 @@ Processing by ProfilesController#index as HTML
   [1m[35mProfile Load (0.5ms)[0m  SELECT "profiles".* FROM "profiles"
   Rendered profiles/index.html.haml within layouts/application (3.0ms)
 Completed 200 OK in 35ms (Views: 33.9ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/profiles" for 144.91.54.215 at 2016-03-12 05:58:16 +0000
+Cannot render console from 144.91.54.215! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ProfilesController#index as HTML
+  [1m[36mProfile Load (0.7ms)[0m  [1mSELECT "profiles".* FROM "profiles"[0m
+  Rendered profiles/index.html.haml within layouts/application (5.0ms)
+Completed 200 OK in 50ms (Views: 48.3ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/assets/bootstrap.self-598365399e6ae8f5a456a189663bac8ef9b8996ace38626328403f280fd63400.css?body=1" for 144.91.54.215 at 2016-03-12 05:58:16 +0000
+Cannot render console from 144.91.54.215! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-27a424817124a538a1bd8a9038aea5396ae2ca72ec5dbb40fa23fc96e0859767.css?body=1" for 144.91.54.215 at 2016-03-12 05:58:16 +0000
+Cannot render console from 144.91.54.215! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/staticpages.self-9c03f93d6e747513b51eec6af15c46383ed5680a7382f4dc6fe59ba16367266d.css?body=1" for 144.91.54.215 at 2016-03-12 05:58:16 +0000
+Cannot render console from 144.91.54.215! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for 144.91.54.215 at 2016-03-12 05:58:16 +0000
+Cannot render console from 144.91.54.215! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for 144.91.54.215 at 2016-03-12 05:58:16 +0000
+Cannot render console from 144.91.54.215! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 144.91.54.215 at 2016-03-12 05:58:16 +0000
+Cannot render console from 144.91.54.215! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap.self-7041be7c31955a03f8c5563fc4652abadea233432c339b8e9ffa3e3b7717afa8.js?body=1" for 144.91.54.215 at 2016-03-12 05:58:16 +0000
+Cannot render console from 144.91.54.215! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/staticpages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 144.91.54.215 at 2016-03-12 05:58:16 +0000
+Cannot render console from 144.91.54.215! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 144.91.54.215 at 2016-03-12 05:58:16 +0000
+Cannot render console from 144.91.54.215! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
